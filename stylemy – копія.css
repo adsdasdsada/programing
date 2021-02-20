@@ -1,0 +1,255 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@500&display=swap');
+
+.logo{
+    position: absolute;
+    width: 39px;
+    height: 39px;
+    left: 227px;
+    top: 15px;
+}
+
+
+.mainMenu ul {
+	margin: 0;
+}
+.mainMenu li {
+    display: inline-block;
+
+}
+.mainMenu a {
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    height: 23px; 
+    width: 67px;
+    top: 8px;
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+
+color: #FFFFFF;
+}
+
+
+.menublok1,.menublok2,.menublok3,.menublok4,.menublok5,.menublok6,.menublok7, .menublok8{
+    top: 15px;
+width: 86px;
+height: 39px;
+position: absolute;
+background: #2F60AA;
+}
+.menublok1{
+     left: 332px;
+}
+.menublok2{
+    left: 438px;
+}
+.menublok3{
+    left: 544px;
+}
+.menublok4{
+    left: 650px;
+}
+.menublok5{
+    left: 756px;
+}
+.menublok6{
+    left: 862px;
+}
+.menublok7{
+    left: 1073px;
+}
+.menublok8{
+    left: 1179px;
+}
+.leftbar1{
+position: absolute;
+width: 207px;
+height: 418px;
+left: 0px;
+top: 74px;
+}
+.leftbar2{
+    position: absolute;
+    width: 207px;
+    height: 155px;
+    left: 0px;
+    top: 429px;
+}
+
+.rightbar1{
+    position: absolute;
+    width: 207px;
+    height: 417px;
+    left: 1073px;
+    top: 74px;
+}
+
+.rightbar2{
+    position: absolute;
+    width: 207px;
+    height: 155px;
+    left: 1073px;
+    top: 429px;
+}
+
+
+.mainblok{
+    position: absolute;
+width: 866px;
+height: 510px;
+left: 207px;
+top: 74px;
+
+background: #CECECE;
+}
+
+.logoimg{
+    position: absolute;
+    width: 55px;
+    height: 52px;
+    left:30px;
+    top: 5px;
+
+}
+.logotext1{
+    font-family: 'Fira Sans', sans-serif;
+    position: absolute;
+width: 114px;
+height: 56px;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 56px;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+left: 90px;
+top: -30px;
+}
+.gg{
+    position: absolute;
+    width: 432px;
+    height: 52px;
+    left: 300px;
+    top: 3px;
+}
+.twist{
+    position: absolute;
+    width: 441px;
+    height: 173px;
+    left: 210px;
+    top: 70px;
+}
+.news{
+    position: absolute;
+width: 120px;
+height: 23px;
+left: 120px;
+top: 225px;
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+color: #2F60AA;
+text-shadow: 0px 4px 4px
+}
+.newsbox{
+    position: absolute;
+    width: 615px;
+    height: 200px;
+    left: 120px;
+    top: 270px;
+
+    background: #FFFFFF;
+}
+hr{
+    color:#9A9A9A;
+ size: 5px;
+width: 615px;
+height: 0px;
+
+}
+.imgnews1, .imgnews2, .imgnews3, .imgnews4{
+margin-top: 10px;
+margin-left: 5px;
+}
+.prapors1, .prapors2, .prapors3, .prapors4{
+    width: 41px;
+    height: 27px;
+}
+.newstext1, .newstext2,.newstext3,.newstext4{
+width: 326px;
+height: 23px;
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+color: #000000;
+}
+
+.newstext1{
+    margin-left: 50px;
+    margin-top: -28px;
+}
+.newstext2{
+    margin-left: 50px;
+    margin-top: -38px
+}
+.newstext3{
+    margin-left: 50px;
+    margin-top: -38px
+}
+.newstext4{
+    margin-left: 50px;
+    margin-top: -28px;
+}
+.line2{
+    margin-top: 25px;
+}
+.line3{
+    margin-top: 25px;
+}
+.footerimg{
+    position: absolute;
+width: 151px;
+height: 26px;
+left: 817px;
+top: 605px;
+}
+.footertext{
+    position: absolute;
+width: 271px;
+height: 45px;
+left: 993px;
+top: 594px;
+
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+}
+.fornm{
+    position: absolute;
+width: 827px;
+height: 84px;
+left: 5px;
+top: 120px;
+
+font-family: 'Fira Sans', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 69px;
+line-height: 84px;
+color: #2F60AA;
+}
